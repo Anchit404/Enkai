@@ -45,8 +45,4 @@ Open your browser to the address shown by the Vite dev server (usually http://lo
 - `client/` — React frontend (Vite)
 - `server/` — Node/Express backend
 
-## Next Steps
-- Consider adding a top-level `start` script to run both client and server concurrently.
 
-## License
-MIT
